@@ -1,0 +1,16 @@
+0    // Load ACC
+3    //   value to load
+7    // Store DATAIN to ACC
+2    // STOP
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

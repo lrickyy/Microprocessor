@@ -1,0 +1,16 @@
+0    // Load ACC
+3    //   value to load
+1    // ADD ACC
+3    //   value to add 
+0    // Load ACC
+A    //   value to load
+3    // AND ACC
+6    //   value to comapere (bitwise AND A = 1010 AND 6 = 0110 should return 0010 = 2)
+0    // Load ACC
+B    //   value to load to ACC
+4    // Zero ACC
+0    // Load ACC
+6    //   value to load
+5    // SUB ACC                              two's comp
+7    //   value to subtract from (6(0110) + (-7)(1001)) = F (1111)
+2    // STOP

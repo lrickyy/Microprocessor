@@ -1,0 +1,16 @@
+v2.0 raw
+0    # Load ACC
+3    #   value to load
+7    # Store ACC to RAM
+2    # STOP
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
